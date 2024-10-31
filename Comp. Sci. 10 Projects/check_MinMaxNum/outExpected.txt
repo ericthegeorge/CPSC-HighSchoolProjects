@@ -1,0 +1,9 @@
+This program will find the minimum and maximum numbers from six user inputted numbers.
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Smallest number is: -1e+82
+Biggest number is: -1

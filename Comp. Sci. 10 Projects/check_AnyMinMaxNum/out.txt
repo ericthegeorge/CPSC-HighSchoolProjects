@@ -1,0 +1,15 @@
+This program will find the minimum and maximum numbers from a group of numbers that the user inputs.
+How many numbers do you want to process (enter an integer and press enter)?
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Smallest number is: -99999999999999
+Biggest number is: -2

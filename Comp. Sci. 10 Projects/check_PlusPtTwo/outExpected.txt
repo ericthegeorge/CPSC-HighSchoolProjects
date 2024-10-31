@@ -1,0 +1,3 @@
+Please type in a decimal number and press enter:
+Your chosen number is 8.7
+My number is 8.899999999999999

@@ -1,0 +1,12 @@
+This program will find the mean average of 10 numbers.
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+The mean average is: 82448679.1

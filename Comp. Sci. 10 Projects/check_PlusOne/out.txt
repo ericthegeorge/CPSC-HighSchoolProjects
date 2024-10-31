@@ -1,0 +1,3 @@
+Please type in an integer number and press enter:
+Your selected number is 8
+My number is 9

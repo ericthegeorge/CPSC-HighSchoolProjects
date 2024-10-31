@@ -1,0 +1,17 @@
+How many numbers do you want to sum up (enter an integer and press return)?
+Please enter a number:
+Running total is: 5
+Please enter a number:
+Running total is: 13
+Please enter a number:
+Running total is: 23
+Please enter a number:
+Running total is: 68
+Please enter a number:
+Running total is: 89
+Please enter a number:
+Running total is: 175
+Please enter a number:
+Running total is: 598
+Please enter a number:
+Running total is: 603

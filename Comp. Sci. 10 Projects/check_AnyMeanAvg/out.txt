@@ -1,0 +1,12 @@
+How many numbers do you want to calculate the mean average of (enter an integer and press enter)?
+This program will now find the mean average of 9 numbers.
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+Please enter a number:
+The mean average is: 67.22222222222223
